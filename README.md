@@ -19,4 +19,4 @@ Self-updating README
 https://dev.to/mokkapps/how-i-built-a-self-updating-readme-on-my-github-profile-418d
 -->
 
-I'm a student at the University of Buenos Aires and I'm very passionet about programming in Python, C & Java.
+I'm a student at the University of Buenos Aires and I'm very passionet about programming in Python 🐍, C & Java ☕. 
