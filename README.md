@@ -22,7 +22,7 @@ I'm a student at the University of Buenos Aires and I'm very passionet about pro
 
 
 Find me at: 
-[![LinkedIn](https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE2nkuF?ver=bb72&q=90&h=40&b=%23FFFFFFFF&aim=true)](https://www.linkedin.com/in/luis-paredes-b743a79b/) [![Twitter](https://oldottawasouth.ca/images/stories/graphics/twitter-40x40.png)](https://twitter.com/luisjoseparedes) 
+[![LinkedIn](https://info.homeworksolutions.com/hs-fs/hub/54123/file-389994930-jpg/images/linkedin_20x20.jpg?t=1492617905457)](https://www.linkedin.com/in/luis-paredes-b743a79b/) [![Twitter](http://thebradfordhotel.com/wp-content/uploads/2014/05/Twitter-logo-20x20.jpg)](https://twitter.com/luisjoseparedes) 
 
 
 Thanks for visiting!    
