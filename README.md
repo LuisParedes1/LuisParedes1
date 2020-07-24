@@ -22,7 +22,10 @@ https://dev.to/mokkapps/how-i-built-a-self-updating-readme-on-my-github-profile-
 I'm a student at the University of Buenos Aires and I'm very passionet about programming in Python 🐍, C & Java ☕. 
 
 
+Find me at: 
+[![LinkedIn]()](https://www.linkedin.com/in/luis-paredes-b743a79b/)
 
 
-
-   Thanks for visiting!         ![Visitor Count](https://profile-counter.glitch.me/{LuisParedes1}/count.svg)
+Thanks for visiting!    
+   
+You are visitor number ![Visitor Count](https://profile-counter.glitch.me/{LuisParedes1}/count.svg)
