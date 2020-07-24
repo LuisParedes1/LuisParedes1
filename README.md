@@ -25,4 +25,4 @@ I'm a student at the University of Buenos Aires and I'm very passionet about pro
 
 
 
-    Thanks for visiting!         ![Visitor Count](https://profile-counter.glitch.me/{LuisParedes1}/count.svg)
+   Thanks for visiting!         ![Visitor Count](https://profile-counter.glitch.me/{LuisParedes1}/count.svg)
