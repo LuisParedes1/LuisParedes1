@@ -21,10 +21,10 @@ https://dev.to/mokkapps/how-i-built-a-self-updating-readme-on-my-github-profile-
 Jr. ML & Software Engineer
 
 
-
 Thanks for visiting!    
 
-You are visitor number ![Visitor Count](https://profile-counter.glitch.me/{LuisParedes1}/count.svg)
+![Visitor Count](https://komarev.com/ghpvc/?username=LuisParedes1&color=0e75b6&style=flat)
 
 
-[![LinkedIn](https://info.homeworksolutions.com/hs-fs/hub/54123/file-389994930-jpg/images/linkedin_20x20.jpg?t=1492617905457)](https://www.linkedin.com/in/luis-paredes-b743a79b/) [![Twitter](http://thebradfordhotel.com/wp-content/uploads/2014/05/Twitter-logo-20x20.jpg)](https://twitter.com/luisjoseparedes) 
+
+[![LinkedIn](https://info.homeworksolutions.com/hs-fs/hub/54123/file-389994930-jpg/images/linkedin_20x20.jpg?t=1492617905457)](https://www.linkedin.com/in/luis-paredes-b743a79b/)
