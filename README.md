@@ -1,30 +1,21 @@
-### Hi there 👋
-
-<!--
-**LuisParedes1/LuisParedes1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-Self-updating README
-https://dev.to/mokkapps/how-i-built-a-self-updating-readme-on-my-github-profile-418d
--->
-
-Jr. ML & Software Engineer
-
-
-Thanks for visiting!    
+# Hi there 👋
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=LuisParedes1&color=0e75b6&style=flat)
 
 
+I'm a Jr. ML & Software Engineer pattionate about learning and building!
 
-[![LinkedIn](https://info.homeworksolutions.com/hs-fs/hub/54123/file-389994930-jpg/images/linkedin_20x20.jpg?t=1492617905457)](https://www.linkedin.com/in/luis-paredes-b743a79b/)
+- 🔭 I’m currently working on Cloud Engineering (AWS & GCP) and ML Pipelines
+- 🌱 I’m currently learning ML Pipelines
+- 💬 Ask me about ML models, Cloud Development, Python, PostgreSQL, MongoDB
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/luisjoseparedes/) or via my [webpage](https://luisparedes1.github.io/)
+- ⚡ Fun fact: I love to dance salsa casino 🕺
+
+<br/>
+
+# Check out my portfolio!
+
+- [Ahorraton](https://github.com/Ahorraton/.github) - Full-stack web application that compares Argentinian supermarket prices and recommends the most cost-effective store based on a user’s shopping list.
+
+- [Snap](https://github.com/bambu-group-03/.github) - Twitter like app that sends and stores tweets, photos, and videos. It can be accessed from the web UI or phone UI.
+
