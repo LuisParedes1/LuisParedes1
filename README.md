@@ -22,8 +22,5 @@ I'm a Jr. ML & Software Engineer pattionate about learning and building!
 
 # 🏅 Certifications
 
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="f16701bc-0361-4453-89eb-33d1e339332b"  data-share-badge-host="https://www.credly.com"></div>
-<script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 
-
-[![AWS Certified Solutions Architect](https://images.credly.com/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png)](https://www.credly.com/badges/f16701bc-0361-4453-89eb-33d1e339332b/public_url)
+[![AWS Certified Developer Associate](./images/aws_dev_associate.png)](https://www.credly.com/badges/f16701bc-0361-4453-89eb-33d1e339332b/public_url)
