@@ -11,7 +11,6 @@ I'm a Jr. ML & Software Engineer pattionate about learning and building!
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/luisjoseparedes/) or via my [webpage](https://luisparedes1.github.io/)
 - ⚡ Fun fact: I love to dance salsa casino 🕺
 
-<br/>
 
 # Check out my portfolio!
 
