@@ -16,6 +16,8 @@ I'm a Jr. ML & Software Engineer pattionate about learning and building!
 
 - [Ahorraton](https://github.com/Ahorraton/.github) - Full-stack web application that compares Argentinian supermarket prices and recommends the most cost-effective store based on a user’s shopping list.
 
+- [Tweet Emotional Classifier](https://github.com/LuisParedes1/aprendizaje-automatico) - Sentiment analysis on Tweets utilizing simple NLP ML models.
+
 - [Snap](https://github.com/bambu-group-03/.github) - Twitter like app that sends and stores tweets, photos, and videos. It can be accessed from the web UI or phone UI.
 
 ---
