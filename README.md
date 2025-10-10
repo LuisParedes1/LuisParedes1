@@ -26,3 +26,6 @@ I'm a Jr. ML & Software Engineer pattionate about learning and building!
 
 
 [![AWS Certified Developer Associate](./images/aws_dev_associate.png)](https://www.credly.com/badges/f16701bc-0361-4453-89eb-33d1e339332b/public_url)
+
+
+[![Google Cloud Computing Foundations](./images/gcp_foundation.png)](https://www.credly.com/badges/be458a17-790b-4756-a76b-07a88f9853c4/public_url)
