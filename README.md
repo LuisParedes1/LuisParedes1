@@ -3,11 +3,11 @@
 ![Visitor Count](https://komarev.com/ghpvc/?username=LuisParedes1&color=0e75b6&style=flat)
 
 
-I'm a Jr. ML & Software Engineer pattionate about learning and building!
+I'm a ML Engineer pattionate about learning and building!
 
-- 🔭 I’m currently working on Cloud Engineering (AWS & GCP) and ML Pipelines
-- 🌱 I’m currently learning ML Pipelines
-- 💬 Ask me about ML models, Cloud Development, Python, PostgreSQL, MongoDB
+- 🔭 I’m currently getting my masters in Artificial Intelligence at FIUBA
+- 🌱 I’m currently working on Cloud Engineering (AWS & GCP) and ML Pipelines
+- 💬 Ask me about ML models, Cloud Development, Databricks, Snowflake, PostgreSQL, MongoDB
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/luisjoseparedes/) or via my [webpage](https://luisparedes1.github.io/)
 - ⚡ Fun fact: I love to dance salsa casino 🕺
 
